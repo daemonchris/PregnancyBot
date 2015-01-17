@@ -3,7 +3,7 @@ import bot #custom, to store username and password info
 import sqlite3 # database for storing comment IDs
 import time
 
-USERAGENT = """AmIPregnant_Bot - version 1.0 - by /u/escrimeuse - https://github.com/escrimeuse/PregnancyBot"""
+USERAGENT = """AmIPregnant_Bot - version 1.0 - https://github.com/escrimeuse/PregnancyBot"""
 USERNAME = bot.un # reddit username
 PASSWORD = bot.pw # reddit password
 SUBREDDIT = "test"
